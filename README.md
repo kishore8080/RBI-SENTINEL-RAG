@@ -1,0 +1,2 @@
+# RBI-SENTINEL-RAG
+A RBI compliance RAG
